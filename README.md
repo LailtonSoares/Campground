@@ -4,7 +4,7 @@ It is a full-stack web application developed using Express JS, MongoDB, and EJS 
 
 # Demo-Preview
 
-https://limitless-depths-70935.herokuapp.com/campgrounds
+https://limitless-depths-70935.herokuapp.com
 
 #Installation
 
@@ -27,12 +27,14 @@ https://limitless-depths-70935.herokuapp.com/campgrounds
         run mongod command in terminal to start mongo server.
 
         run mongo command in seprate terminal to open mongodb shell.
+        
 
 2 - Install the depndencies
 
-   git clone the project repository
+       git clone the project repository
 
-   npm install will install the project's dependencies
+       npm install will install the project's dependencies
+       
 
 3 - External APIs
 
