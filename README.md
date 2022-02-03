@@ -20,7 +20,7 @@ https://limitless-depths-70935.herokuapp.com
 
         Download the Community server and select the Insall Mongod as server.
  
-        Start Windows Powershell (press the Windows Start button and type ‘powershell’ to find the shortcut) and type the following command: New-Item -ItemType directory -Path         C:\data\db
+        Start Windows Powershell (press the Windows Start button and type ‘powershell’ to find the shortcut) and type the following command: New-Item -ItemType directory -Path C:\data\db
    
         Add the mongodb installation C:\MongoDB\bin location to the path variable in System variables.
 
